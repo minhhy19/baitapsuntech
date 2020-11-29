@@ -1,0 +1,12 @@
+.o-wrapper1 {
+	padding: 20px 0px;
+	text-align: center;
+}
+
+.wrapper1 .o-wrapper1 {
+	flex-direction: column;
+}
+
+.intro {
+	order: 1;
+}
