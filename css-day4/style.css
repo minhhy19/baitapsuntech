@@ -24,7 +24,7 @@ p, h1, h2, h3, h4 {
 header {	
 	background: var(--bg1-color);
 	color: var(--text1-color);
-	height: 50px;
+	min-height: 50px;
 	line-height: 50px;
 	text-align: center;
 	font-weight: bold;
@@ -109,7 +109,7 @@ section {
 
 .book img {
 	max-width: 300px;
-	border-radius: 20px;
+	border-radius: 6px;
 }
 
 .wrapper2 {
