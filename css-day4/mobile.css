@@ -1,83 +1,83 @@
 header > div > p {
-	text-align: center;
+    text-align: center;
 }
 
 .desc1 {
-	text-align: center;
+    text-align: center;
 }
 
 .o-wrapper1 {
-	padding: 20px 0px;
-	text-align: center;
+    padding: 20px 0px;
+    text-align: center;
 }
 
 .wrapper1 .o-wrapper1 {
-	flex-direction: column;
+    flex-direction: column;
 }
 
 .intro {
-	order: 1;
+    order: 1;
 }
 
 .title1 {
-	font-size: 26px;
+    font-size: 26px;
 }
 
 .title1 > span {
-	font-size: 40px;
+    font-size: 40px;
 }
 
 .book img {
-	max-width: 200px;
+    max-width: 200px;
 }
 
 .wrapper2 .o-wrapper1 > p {
-	font-size: 18px;
+    font-size: 18px;
 }
 
 .section-title {
-	font-size: 32px;
+    font-size: 32px;
 }
 
 .menu-item {
-	padding: 20px 60px 20px 20px;
+    padding: 20px 60px 20px 20px;
 }
 
 .menu-item > div > h3, p {
-	text-align: left;
+    text-align: left;
 }
 
 .feature-item {
-	margin: 0px 0px 30px 15px;
+    margin: 0px 0px 30px 15px;
 }
 
 .feature-title {
-	font-size: 18px;
-	text-align: left;
+    font-size: 18px;
+    text-align: left;
 }
 
 .feature-desc {
-	font-size: 16px;
+    font-size: 16px;
 }
 
 .feature {
-	flex-wrap: nowrap;
+    flex-wrap: nowrap;
     flex-direction: column;
 }
 
 .readers {
-	flex-wrap: nowrap;
-	flex-direction: column;
+    flex-wrap: nowrap;
+    flex-direction: column;
 }
 
 .reader {
-	margin: 0px 0px 30px 15px;
+    margin: 0px 0px 30px 15px;
 }
 
 .about {
-	flex-direction: column;
+    flex-direction: column;
 }
  
 .about-name {
-	text-align: left;
+    text-align: left;
 }
